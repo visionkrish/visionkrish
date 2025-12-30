@@ -1,16 +1,34 @@
-## Hi there 👋
+ # ML engineer building real-time 3D perception systems
 
-<!--
-**visionkrish/visionkrish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  **3D vision** • **Real-time systems** • **Research-to-production**
 
-Here are some ideas to get you started:
+  Building towards AI-native design tools. Currently interested in robotics, spatial AI, and problems at the intersection of geometry and learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## Skills
+
+  **Languages:** Python, C++, CUDA, TypeScript, JavaScript
+
+  **ML/DL:** PyTorch, self-supervised learning, GANs, domain adaptation, quantization, distillation
+
+  **3D Vision:** Registration, pose estimation, segmentation, mesh processing, SMPL, PyTorch3D, VTK
+
+  **Infrastructure:** TensorRT, ONNX, FastAPI, Docker, DVC, Ray, AWS, CUDA optimization, edge deployment
+
+  **Frontend:** React, Three.js, real-time visualization
+
+  ## Current Work
+
+  - **VisionForge** - AI-native design tool for geometry and real-time simulation
+  - **ava-track** - 3D temporal face tracking with real-time mesh reconstruction
+  - **ava-codec** - Neural compression for 3D temporal data
+  - **agent-cache** - Local semantic memory system (C, C++, Zig, Rust)
+
+  ## Links
+
+  - **Website:** [visionkrish.com](https://visionkrish.com)
+  - **Writing:** [Blog](https://visionkrish.com/posts)
+  - **Reading List:** [Resources](https://visionkrish.com/resources)
+
+  ---
+
+  **Email:** krish@visionkrish.com
