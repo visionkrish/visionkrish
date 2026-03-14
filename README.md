@@ -16,19 +16,6 @@
 
   **Frontend:** React, Three.js, real-time visualization
 
-  ## Current Work
 
-  - **VisionForge** - AI-native design tool for geometry and real-time simulation
-  - **ava-track** - 3D temporal face tracking with real-time mesh reconstruction
-  - **ava-codec** - Neural compression for 3D temporal data
-  - **agent-cache** - Local semantic memory system (C, C++, Zig, Rust)
-
-  ## Links
-
-  - **Website:** [visionkrish.com](https://visionkrish.com)
-  - **Writing:** [Blog](https://visionkrish.com/posts)
-  - **Reading List:** [Resources](https://visionkrish.com/resources)
-
-  ---
 
   **Email:** krish@visionkrish.com
